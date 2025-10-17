@@ -15,7 +15,7 @@ if (savedData) {
 
 form.addEventListener('input', event => {
   formData[event.target.name] = event.target.value.trim();
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(formData));
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(formData)); 
 });
 
 form.addEventListener('submit', event => {

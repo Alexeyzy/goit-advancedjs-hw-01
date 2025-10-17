@@ -17,7 +17,7 @@ const images = [
   },
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785__340.jpg',
+      'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785__340.jpg', 
     original:
       'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785_1280.jpg',
     description: 'Aerial Beach View',

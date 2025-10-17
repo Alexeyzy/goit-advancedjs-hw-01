@@ -23,7 +23,7 @@
   height: auto;
   display: block;
   transition: transform 250ms ease, box-shadow 250ms ease;
-  border: 2px solid transparent;
+  border: 2px solid transparent; 
   border-radius: 4px;
 }
 
